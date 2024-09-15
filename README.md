@@ -16,7 +16,7 @@ The OER is designed for students and professionals who want to improve their ski
 
 ### How to use the OER Module
 
-Simply download the [PDF file](\\docs\\OER-CopernicusAndOpenEO.pdf), and follow the tutorial.
+Simply download the [PDF file](https://github.com/oer4sdi/OER-CopernicusAndOpenEO/blob/main/docs/OER-CopernicusAndOpenEO.pdf), and follow the tutorial.
 
 ### Copyright and License Statement
 
