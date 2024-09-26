@@ -1,4 +1,4 @@
-Copyright (c) 2023 University of Münster
+Copyright (c) 2024 University of Münster
 
 You are free to use, alter and reproduce this open educational resource (OER) under the terms of the CC-BY-SA 4.0 license. Any source code contained or delivered with this OER can be used under the terms of the MIT license:
 
