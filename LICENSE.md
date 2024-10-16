@@ -1,5 +1,3 @@
-Copyright (c) 2024 University of Münster
-
 You are free to use, alter and share the tutorial under the terms of the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) license, unless explicitly stated otherwise for specific parts of the content. 
 
 The authors can be mentioned as follows: OER-Spatial-Data-Streaming (2024), Tobias Krumrein, Albert Remke, [University of Münster](www.uni-muenster.de), CC-BY-SA 4.0. 

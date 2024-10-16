@@ -23,7 +23,7 @@ As a teacher, you should familiarize yourself with both the theoretical backgrou
 
 #### Recommendations for Teaching:
 
-- Require students to engage in the practical exercise with the Jupyter Notebooks and Docker environment. This exercise uses real Sentinel-2 data and OpenEO to assess the impact of natural disasters, such as floods. Students will download satellite data and calculate NDVI to analyze vegetation damage.
+- Require students to engage in the practical exercise with the Jupyter Notebooks and Docker environment. This exercise uses real Sentinel-2 data and OpenEO to assess the impact of natural disasters, such as floods. Students will download satellite data and calculate NDVI to inspect vegetation damage.
 - You can expand or adjust the tasks to fit your course or your students' level of experience.
 
 ### 2.3 Re-use, Modification, and Distribution
