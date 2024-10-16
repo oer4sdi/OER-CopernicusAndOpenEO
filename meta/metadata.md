@@ -23,23 +23,21 @@ Author
 
 ## Abstract
 
-This repository contains all the materials used to create and publish an Open Educational Resource (OER) on working with Copernicus data and openEO. The OER module provides a) some background information on the Copernicus Program, the Copernicus Data Space Ecosystem and processing of earth observation (EO)-Data and b) a practical exercise on how to use the Copernicus Data Space Ecosystem and OpenEO through a Python Notebook. 
+In this technical tutorial on the Copernicus data infrastructure, you will learn about the Copernicus Earth Observation Infrastructure, the **Copernicus Data Space Ecosystem** and **OpenEO**. 
 
 ### Content:
 * Chapter 1: Overview
 * Chapter 2: Background on the Copernicus Program, the Copernicus Data Space Ecosystem and processing of EO-Data
 * Chapter 3: Practical exercise on how to use the Copernicus Data Space Ecosystem and OpenEO
-* Chapter 4: Wrap up and summary
+* Chapter 4: Summary
 
-The OER is designed for students and professionals who want to improve their skills in working with EO-Data. Users should have some basic knowledge of Python and it would not be bad to have some experience with Docker and Jupyter notebooks as well. However, the OER guides you through all these technologies and can also be used to gain some initial practical experience with them. 
+This tutorial is designed for students and professionals who want to improve their understanding of Spatial Information Infrastructures. We assume that you have some basic knowledge about remote sensing, Python and web technologies. However, even without this prior knowledge you will be able to follow and to achieve the main learning objectives. Your computer should have 8 GB of usable RAM and 2 GB of usable hard disk space to download and use the software for this tutorial. 
 
 ### How to use the OER Module
 
 Simply download the [PDF file](\docs\OER-CopernicusAndOpenEO.pdf), read and follow the tutorial..
 
-### Copyright and License Statement
-
-Copyright (c) 2024 [University of Münster](https://www.uni-muenster.de/en/)
+### License Statement
 
 You are free to use, alter and share the tutorial under the terms of the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) license, unless explicitly stated otherwise for specific parts of the content. 
 
